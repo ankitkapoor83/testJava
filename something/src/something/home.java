@@ -16,6 +16,8 @@ public class home {
 		System.out.println("something_1");
 		System.out.println("something new");
 		System.out.println("33");
+		System.out.println("22");
+		System.out.println("11");
 	}
 
 }
