@@ -8,7 +8,12 @@ public class home {
 		System.out.println("this is commit 3.");
 		System.out.println("this is commit 4.");
 		System.out.println("this is commit 5.");
+<<<<<<< HEAD
 		System.out.println("this is commit 8.");
+=======
+		System.out.println("commit to master 2.");
+
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
